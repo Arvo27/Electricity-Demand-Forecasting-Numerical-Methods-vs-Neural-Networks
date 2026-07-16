@@ -1,2 +1,5 @@
 .venv/
 pruebas.ipynb
+.DS_Store
+.vscode/
+pred_sarima_h1.csv
